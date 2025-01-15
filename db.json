@@ -1,0 +1,52 @@
+{
+  "productos": [
+    {
+      "id": "1736957185908",
+      "nombre": "Celular",
+      "precio": 100,
+      "imagen": "https://www.kalley.com.co/medias/7705946478502-001-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w3MjQzMnxpbWFnZS93ZWJwfGFEazFMMmd4T0M4eE5EVXlOVEEwTkRjeE9UWTBOaTgzTnpBMU9UUTJORGM0TlRBeVh6QXdNVjh4TkRBd1YzZ3hOREF3U0F8NjgxNmVhMmZkNmMwZjAxZTJjNjVjYjFiMjVlNzIwYjk3MTVkNDU1OWQzMzVhNjIyZWJmM2YxMWEzMmEwYmNmMg"
+    },
+    {
+      "id": "1736957185909",
+      "nombre": "Laptop",
+      "precio": 500,
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkNUwCUrlceI-ERkZZOWaxYaabBFEAW0sxwQ&s"
+    },
+    {
+      "id": "1736957185910",
+      "nombre": "Tablet",
+      "precio": 200,
+      "imagen": "https://exitocol.vtexassets.com/arquivos/ids/24503263/Tablet-SAMSUNG-GALAXY-S6-LITE-104-Pulgadas-Wifi-128-GB-4-GB-RAM-Gris-3538040_f.jpg?v=638614843513930000"
+    },
+    {
+      "id": "1736957185911",
+      "nombre": "Auriculares",
+      "precio": 50,
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR35kM8CXtD-evrQMDWpGHbUUKY_TfQ0NK0HQ&s"
+    },
+    {
+      "id": "1736957185912",
+      "nombre": "Smartwatch",
+      "precio": 150,
+      "imagen": "https://www.celudmovil.com.co/cdn/shop/files/SmartWatchUltra2X-APLUS.webp?v=1717520687"
+    },
+    {
+      "id": "1736957185913",
+      "nombre": "Teclado",
+      "precio": 80,
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_737997-MLU74110353113_012024-O.webp"
+    },
+    {
+      "id": "1736957185914",
+      "nombre": "Mouse",
+      "precio": 40,
+      "imagen": "https://co-media.hptiendaenlinea.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/6/V/6VY96AA-1_T1679073083.png"
+    },
+    {
+      "id": 1736972786702,
+      "nombre": "BH",
+      "precio": 55,
+      "imagen": "https://imagen.com"
+    }
+  ]
+}
